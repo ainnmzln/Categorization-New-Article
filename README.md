@@ -4,7 +4,7 @@
 
 # 1. Summary 
 
-This project is to categorize unseen  articles into 5 categories namely Sport, Tech, Business, Entertainment and  Politics.
+This project is to categorize unseen  articles into 5 categories namely Sport, Tech, Business, Entertainment and  Politics using LSTM approach.
 
 # 2. Dataset
 
